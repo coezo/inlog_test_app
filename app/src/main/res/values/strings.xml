@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Inlog Test App</string>
+
+    <string name="search">Buscar</string>
+    <string name="search_hint">Pesquise um filme</string>
+
+    <string name="vote_average">Nota média</string>
+    <string name="release_date">Data de lançamento</string>
+
+    <string name="genres">Gêneros</string>
+    <string name="overview">Sinopse</string>
+    <string name="runtime">Duração</string>
+    <string name="budget">Orçamento</string>
+    <string name="revenue">Receita</string>
 </resources>
